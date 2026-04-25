@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "num_train_images": 1334,
+  "num_test_images": 326,
+  "num_classes": 7,
+  "train_retention_rate": 1.0,
+  "test_retention_rate": 1.0,
+  "image_format": "mixed (see metadata)",
+  "recommended_image_size": 224,
+  "recommended_batch_size": 32,
+  "class_imbalance_ratio": 1.1179775280898876
+}

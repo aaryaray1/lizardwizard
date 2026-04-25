@@ -1,0 +1,30 @@
+{
+  "class_to_idx": {
+    "Black_spiny_tailed_iguana": 0,
+    "Brown_anole": 1,
+    "Cuban_knight_anole": 2,
+    "Desert_iguana": 3,
+    "Green_anole": 4,
+    "Green_iguana": 5,
+    "Lesser_Antillean_iguana": 6
+  },
+  "idx_to_class": {
+    "0": "Black_spiny_tailed_iguana",
+    "1": "Brown_anole",
+    "2": "Cuban_knight_anole",
+    "3": "Desert_iguana",
+    "4": "Green_anole",
+    "5": "Green_iguana",
+    "6": "Lesser_Antillean_iguana"
+  },
+  "class_weights": {
+    "0": 0.9576453697056713,
+    "1": 0.9874167283493709,
+    "2": 1.0083144368858654,
+    "3": 1.0413739266198283,
+    "4": 1.0706260032102728,
+    "5": 0.9723032069970845,
+    "6": 0.9723032069970845
+  },
+  "num_classes": 7
+}
